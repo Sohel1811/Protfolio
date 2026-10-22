@@ -180,11 +180,11 @@ function PackageCard() {
       className="pkg rise"
       style={{ "--i": 2 }}
       role="img"
-      aria-label="package.json style summary: MERN Stack Developer, 4 years of experience, open to work in Hyderabad, Bengaluru and Pune"
+      aria-label="package.json style summary: Full Stack Developer, 4 years of experience, open to work in Hyderabad, Bengaluru and Pune"
     >
       <div><P>{"{"}</P></div>
-      <div>  <K>"name"</K><P>:</P> <S>"mohammad-sohel"</S><P>,</P></div>
-      <div>  <K>"role"</K><P>:</P> <S>"MERN Stack Developer"</S><P>,</P></div>
+      <div>  <K>"name"</K><P>:</P> <S>"Mohammad-Sohel"</S><P>,</P></div>
+      <div>  <K>"role"</K><P>:</P> <S>"Full Stack Developer"</S><P>,</P></div>
       <div>  <K>"experience"</K><P>:</P> <S>"4 years"</S><P>,</P></div>
       <div>  <K>"stack"</K><P>:</P> <P>[</P><S>"React"</S><P>,</P> <S>"TypeScript"</S><P>,</P></div>
       <div>            <S>"Node.js"</S><P>,</P> <S>"MongoDB"</S><P>],</P></div>

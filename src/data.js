@@ -4,17 +4,17 @@
 
 export const profile = {
   name: "Mohammad Sohel",
-  role: "MERN stack developer",
+  role: "Full stack developer",
   location: "Hyderabad, India",
   email: "sohelmohammad8143@gmail.com",
   phone: "+91-8143724456",
   linkedinLabel: "Sohel Mohammad",
-  linkedinUrl: "www.linkedin.com/in/sohel-mohammad-84a966222", // e.g. "https://www.linkedin.com/in/your-handle"
+  linkedinUrl: "https://www.linkedin.com/in/sohel-mohammad-84a966222", // e.g. "https://www.linkedin.com/in/your-handle"
   githubUrl: "https://github.com/Sohel1811", // e.g. "https://github.com/your-handle"
   lede:
     "I build full-stack web apps with React, TypeScript and Node.js, and add LLM features on Google Cloud Vertex AI. Four years on enterprise products for Verizon and Telefónica.",
   about: [
-    "I'm a MERN Stack Developer who has spent four years shipping production features in globally distributed Agile teams. My core stack is React.js, Redux Toolkit, TypeScript, Node.js and Express.js, backed by MongoDB and MySQL.",
+    "I'm a Full Stack Developer who has spent four years shipping production features in globally distributed Agile teams. My core stack is React.js, Redux Toolkit, TypeScript, Node.js and Express.js, backed by MongoDB and MySQL.",
     "Lately I've been working on applied AI: designing an LLM-powered support chatbot on Google Cloud Vertex AI, and using GitHub Copilot and Claude to scaffold components, review code and debug faster.",
   ],
   openTo: ["Hyderabad", "Bengaluru", "Pune"],
@@ -28,7 +28,7 @@ export const results = [
 ];
 
 export const job = {
-  title: "MERN Stack Developer, Tech Mahindra",
+  title: "Full Stack Developer, Tech Mahindra",
   meta: "Nov 2021 to Oct 2025 · Hyderabad, India",
   clients: [
     {
